@@ -1,5 +1,6 @@
 # Description
-- Ajout de la gestion de droits (admin,citystaff) dans la partie admin
+- Amélioration de la gestion des radio buttons "type" (similaire/unique) de la page "observations" (console admin)
+- Ajout d'un champ de recherche sur obs_address_string
 
 ### If necessary, please
 * Update **documentation** or README
